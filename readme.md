@@ -1,5 +1,7 @@
 #Ratchet Chat App
 
+A simple PHP chat application for the Sitepoint article on creating a chat application with PHP.
+
 ##License
 
 The MIT License (MIT) Copyright (c)
