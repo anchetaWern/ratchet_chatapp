@@ -1,6 +1,6 @@
 #Ratchet Chat App
 
-A simple PHP chat application for the Sitepoint article on creating a chat application with PHP.
+A simple PHP chat application for the Sitepoint article on [How to Quickly Build a Chat App with Ratchet](http://www.sitepoint.com/how-to-quickly-build-a-chat-app-with-ratchet)
 
 ##License
 
